@@ -2,7 +2,7 @@
 
 set -e
 
-KIOSK_URL="https://pal.be"
+KIOSK_URL="http://192.168.1.64:1880/endpoint/ui"
 USERNAME="homeassistant"
 PASSWORD="homeassistant"
 
