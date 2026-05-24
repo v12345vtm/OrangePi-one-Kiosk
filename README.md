@@ -25,7 +25,11 @@ create pi pasword : raspberry
 provide real name : Pi
 
 
+or ther is also a script 
 
+wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install_kiosk.sh
+chmod +x install_kiosk.sh
+sudo ./install_kiosk.sh
 ---
 
 # 1. Install Required Packages
