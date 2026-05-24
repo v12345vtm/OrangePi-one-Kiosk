@@ -58,7 +58,7 @@ echo "Creating autologin script..."
 cat > /root/autologin.sh <<EOF
 #!/bin/bash
 
-sleep 15
+sleep 60
 
 xdotool type "$USERNAME"
 xdotool key Tab
