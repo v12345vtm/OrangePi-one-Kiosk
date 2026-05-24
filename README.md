@@ -1,4 +1,3 @@
-````markdown
 # Armbian Minimal Web Kiosk Setup (Orange Pi / Debian Trixie)
 
 This guide documents the exact working steps used to configure a lightweight web kiosk on a CLI-only Armbian installation (tested on Orange Pi One).
@@ -8,7 +7,6 @@ The system boots directly into a fullscreen Chromium browser displaying:
 https://pal.be
 
 This setup uses:
-
 - Xorg
 - Openbox
 - Chromium
@@ -222,4 +220,3 @@ worked more reliably on Orange Pi hardware and properly initialized the HDMI dis
 - Chromium 148+
 
 ---
-````
