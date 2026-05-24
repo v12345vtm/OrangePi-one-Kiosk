@@ -357,7 +357,7 @@ echo ""
 After uploading `kiosk_with_weblogin.sh` to GitHub:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/v12345vtm/OrangePi-one-Kios/main/kiosk_with_weblogin.sh)
+bash <(curl -s https://raw.githubusercontent.com/v12345vtm/OrangePi-one-Kiosk/main/kiosk_with_weblogin.sh)
 ```
 
 ---
