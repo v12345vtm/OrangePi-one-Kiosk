@@ -13,6 +13,18 @@ This setup uses:
 - systemd
 
 No full desktop environment is required.
+see image png in repo
+
+use putty ssh
+
+use root - 1234
+
+create rootpasword = rasberry
+username : pi
+create pi pasword : raspberry
+provide real name : Pi
+
+
 
 ---
 
