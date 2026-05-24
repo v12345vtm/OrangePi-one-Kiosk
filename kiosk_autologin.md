@@ -233,7 +233,7 @@ journalctl -u kiosk.service -n 50 --no-pager
 Save this as:
 
 ```text
-install_kiosk.sh
+kiosk_with_weblogin.sh
 ```
 
 ```bash
@@ -354,10 +354,10 @@ echo ""
 
 # 8. GitHub One-Line Installer
 
-After uploading `install_kiosk.sh` to GitHub:
+After uploading `kiosk_with_weblogin.sh` to GitHub:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install_kiosk.sh)
+bash <(curl -s https://raw.githubusercontent.com/v12345vtm/OrangePi-one-Kios/main/kiosk_with_weblogin.sh)
 ```
 
 ---
@@ -367,7 +367,7 @@ bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/in
 The credentials are stored in plaintext inside:
 
 ```text
-/root/autologin.sh
+/root/kiosk_with_weblogin.sh
 ```
 
 Only use this on:
