@@ -1,7 +1,3 @@
-# OrangePi-one-Kiosk
-kiosk mode client 
-
-
 ````markdown
 # Armbian Minimal Web Kiosk Setup (Orange Pi / Debian Trixie)
 
@@ -12,6 +8,7 @@ The system boots directly into a fullscreen Chromium browser displaying:
 https://pal.be
 
 This setup uses:
+
 - Xorg
 - Openbox
 - Chromium
